@@ -1,3 +1,4 @@
+
 from PIL import Image
 
 def text_to_binary(message):

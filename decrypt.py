@@ -1,3 +1,4 @@
+
 from PIL import Image
 
 def binary_to_text(binary_string):
